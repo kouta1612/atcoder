@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "deque": "cpp",
+        "functional": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "*.tcc": "cpp",
+        "random": "cpp",
+        "ratio": "cpp",
+        "algorithm": "cpp",
+        "chrono": "cpp",
+        "limits": "cpp",
+        "iosfwd": "cpp",
+        "bitset": "cpp",
+        "queue": "cpp",
+        "stack": "cpp"
+    },
+    "git.ignoreLimitWarning": true
+}
